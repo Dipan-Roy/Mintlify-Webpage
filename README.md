@@ -8,5 +8,6 @@ Colors used : #0000EE , #F7F7F7 , #0C8C5F
 
 Snapshot of the Website :- (use the deployed link to get the Live demo as the Snapshot Preview may not be accurate or compressed)
 
-<img width="1607" height="927" alt="mintlify-webpage vercel app_ (2)" src="https://github.com/user-attachments/assets/1520b65c-31f9-4756-8005-4c61e3e91185" />
+<img width="1900" height="908" alt="Screenshot 2026-02-06 123254" src="https://github.com/user-attachments/assets/7c956c31-592c-4a45-922e-c81875328ea2" />
+
 
